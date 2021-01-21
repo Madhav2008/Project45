@@ -9,7 +9,7 @@ function preload() {
     spaceRangerImg = loadImage("spaceranger.png");
     spaceBackgroundImg = loadImage("Space.jpg");
     enemyImg = loadImage("enemy.png");
-    specialEnemyImg = loadImage("specialEnemy.png");
+    specialEnemyImg = loadImage("specialenemy.png");
     asteroidImg = loadImage("asteroid.png");
     wowtextImg = loadImage("wowtext.gif");
     wonderfultextImg = loadImage("wonderfultext.jpg");
